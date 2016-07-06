@@ -1,0 +1,35 @@
+{
+    "NAME"     : "No Crew Requirement Continued",
+    "URL"      : "https://github.com/Real-Gecko/NoCrewRequirementContinued/raw/master/GameData/NoCrewRequirementContinued/NoCrewRequirementContinued.version",
+    "DOWNLOAD" : "http://spacedock.info/mod/715/No%20Crew%20Requirement%20Continued",
+    "GITHUB" :
+    {
+        "USERNAME" : "Real-Gecko",
+        "REPOSITORY" : "NoCrewRequirementContinued"
+    },
+    "VERSION" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 1,
+        "BUILD" : 0
+    },
+    "KSP_VERSION" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 1,
+        "PATCH" : 3
+    },
+    "KSP_VERSION_MIN" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 1,
+        "PATCH" : 2
+    },
+    "KSP_VERSION_MAX" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 1,
+        "PATCH" : 3
+    }
+}
