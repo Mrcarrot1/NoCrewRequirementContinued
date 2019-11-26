@@ -1,17 +1,17 @@
 {
     "NAME"     : "No Crew Requirement Continued",
-    "URL"      : "https://github.com/Real-Gecko/NoCrewRequirementContinued/raw/master/GameData/NoCrewRequirementContinued/NoCrewRequirementContinued.version",
+    "URL"      : "https://github.com/Mrcarrot1/NoCrewRequirementContinued/raw/master/GameData/NCRC/NoCrewRequirementContinued.version",
     "DOWNLOAD" : "http://spacedock.info/mod/715/No%20Crew%20Requirement%20Continued",
     "GITHUB" :
     {
-        "USERNAME" : "Real-Gecko",
+        "USERNAME" : "Mrcarrot1",
         "REPOSITORY" : "NoCrewRequirementContinued"
     },
     "VERSION" :
     {
         "MAJOR" : 1,
         "MINOR" : 0,
-        "PATCH" : 2,
+        "PATCH" : 4,
         "BUILD" : 0
     }
 }
